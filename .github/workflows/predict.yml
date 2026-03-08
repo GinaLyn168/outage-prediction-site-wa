@@ -31,8 +31,8 @@ jobs:
 
       - name: Commit updated JSON
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions@github.com"
+          git config user.name "GinaLyn168"
+          git config user.email "gracelin.tw88@gmail.com"
 
           git add county_outage_risk_wa.json
 
