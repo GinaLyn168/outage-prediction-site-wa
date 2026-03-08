@@ -23,7 +23,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install xgboost pandas numpy requests
+          pip install xgboost pandas numpy requests scikit-learn
 
       - name: Run prediction script
         run: |
