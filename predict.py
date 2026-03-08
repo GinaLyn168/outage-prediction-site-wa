@@ -170,15 +170,18 @@ def risk_reason(row):
         return "wind + wet ground"
 
     scores = {
-        "gusty winds": wind/5,
-        "rain today": p1/3,
-        "recent rain": p3/8,
-        "wet ground": p7/12
+        "gusty winds": wind / 5,
+        "rain today": p1 / 3,
+        "recent rain": p3 / 8,
+        "wet ground": p7 / 12
     }
 
     return max(scores, key=scores.get)
 
-site_df["reason"] = site_df.apply(risk_reason, axis=1)
+site_df["reason"] = site_df.apply(
+    lambda row: risk_reason(row) if row["outage_prob"] >= 0.20 else "",
+    axis=1
+)
 
 print(site_df[["county","probability","reason"]].head())
 
