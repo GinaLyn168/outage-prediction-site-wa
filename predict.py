@@ -73,8 +73,6 @@ params = {
     "timezone": "America/Los_Angeles"
 }
 
-print("Fetching weather...")
-
 weather = requests.get(url, params=params).json()
 
 # Open-Meteo returns a list when requesting multiple locations
