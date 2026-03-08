@@ -1,16 +1,10 @@
-### Outage Prediction Site
+# Outage Prediction Site, Washington State
 
-gfgdfgfd
+Deployed on Vercel. Click [here](https://outage-prediction-site-wa.vercel.app/) to access it.
 
-
+Do not directly access *html* file in folder. The Javascript does not run correctly when the *html* file is directly opened in a browser.
 
 ---
-
-
-
-fghdh
-
-
-
+Credits to Leaflet.
 
 
