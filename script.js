@@ -154,13 +154,18 @@ function updateMetricsDisplay() {
 
 async function loadPredictionData() {
     try {
-        const response = await fetch('county_outage_risk_wa.json');
+        const response = await fetch(`county_outage_risk_wa.json?t=${Date.now()}`);
         const data = await response.json();
 
         generatedAt = data.generated_at || null;
         modelMetrics = data.metrics || null;
 
         const predictions = data.predictions || {};
+
+        // clear old values first
+        Object.keys(dailyPredictions).forEach(k => delete dailyPredictions[k]);
+        Object.keys(dailyReasons).forEach(k => delete dailyReasons[k]);
+
         updateMap(predictions);
         updateMetricsDisplay();
 
