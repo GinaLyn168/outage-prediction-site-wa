@@ -1,0 +1,138 @@
+{
+  "generated_at": "2023-11-30",
+  "metrics": {
+    "auc": 0.91,
+    "recall": 0.728,
+    "accuracy": 0.898
+  },
+  "predictions": {
+    "Adams": {
+      "probability": 0.12020000070333481,
+      "reason": ""
+    },
+    "Asotin": {
+      "probability": 0.011599999852478504,
+      "reason": ""
+    },
+    "Benton": {
+      "probability": 0.3305000066757202,
+      "reason": "gusty winds"
+    },
+    "Clallam": {
+      "probability": 0.03610000014305115,
+      "reason": ""
+    },
+    "Clark": {
+      "probability": 0.1518000066280365,
+      "reason": ""
+    },
+    "Columbia": {
+      "probability": 0.021800000220537186,
+      "reason": ""
+    },
+    "Cowlitz": {
+      "probability": 0.0544000007212162,
+      "reason": ""
+    },
+    "Douglas": {
+      "probability": 0.08959999680519104,
+      "reason": ""
+    },
+    "Ferry": {
+      "probability": 0.007600000128149986,
+      "reason": ""
+    },
+    "Garfield": {
+      "probability": 0.011099999770522118,
+      "reason": ""
+    },
+    "Grant": {
+      "probability": 0.10760000348091125,
+      "reason": ""
+    },
+    "Island": {
+      "probability": 0.6200000047683716,
+      "reason": "gusty winds"
+    },
+    "Jefferson": {
+      "probability": 0.11599999666213989,
+      "reason": ""
+    },
+    "King": {
+      "probability": 0.2037999927997589,
+      "reason": "gusty winds"
+    },
+    "Kitsap": {
+      "probability": 0.6082000136375427,
+      "reason": "rain/snow today"
+    },
+    "Kittitas": {
+      "probability": 0.23569999635219574,
+      "reason": "gusty winds"
+    },
+    "Lewis": {
+      "probability": 0.853600025177002,
+      "reason": "rain/snow today"
+    },
+    "Lincoln": {
+      "probability": 0.1062999963760376,
+      "reason": ""
+    },
+    "Mason": {
+      "probability": 0.164900004863739,
+      "reason": ""
+    },
+    "Okanogan": {
+      "probability": 0.010400000028312206,
+      "reason": ""
+    },
+    "Pend Oreille": {
+      "probability": 0.019500000402331352,
+      "reason": ""
+    },
+    "Pierce": {
+      "probability": 0.387800008058548,
+      "reason": "rain/snow today"
+    },
+    "San Juan": {
+      "probability": 0.6200000047683716,
+      "reason": "gusty winds"
+    },
+    "Skagit": {
+      "probability": 0.09300000220537186,
+      "reason": ""
+    },
+    "Snohomish": {
+      "probability": 0.16249999403953552,
+      "reason": ""
+    },
+    "Spokane": {
+      "probability": 0.04089999943971634,
+      "reason": ""
+    },
+    "Stevens": {
+      "probability": 0.01080000028014183,
+      "reason": ""
+    },
+    "Thurston": {
+      "probability": 0.13809999823570251,
+      "reason": ""
+    },
+    "Walla Walla": {
+      "probability": 0.1185000017285347,
+      "reason": ""
+    },
+    "Whatcom": {
+      "probability": 0.014100000262260437,
+      "reason": ""
+    },
+    "Whitman": {
+      "probability": 0.0494999997317791,
+      "reason": ""
+    },
+    "Yakima": {
+      "probability": 0.16920000314712524,
+      "reason": ""
+    }
+  }
+}

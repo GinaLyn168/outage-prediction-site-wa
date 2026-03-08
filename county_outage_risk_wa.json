@@ -1,0 +1,161 @@
+{
+  "generated_at": "2026-03-07",
+  "predictions": {
+    "Adams": {
+      "probability": 0.0026000000070780516,
+      "reason": "gusty winds"
+    },
+    "Asotin": {
+      "probability": 0.00039999998989515007,
+      "reason": "wind + wet ground"
+    },
+    "Benton": {
+      "probability": 0.054099999368190765,
+      "reason": "gusty winds"
+    },
+    "Chelan": {
+      "probability": 0.005100000184029341,
+      "reason": "gusty winds"
+    },
+    "Clallam": {
+      "probability": 0.4966999888420105,
+      "reason": "wind + wet ground"
+    },
+    "Clark": {
+      "probability": 0.10289999842643738,
+      "reason": "wind + wet ground"
+    },
+    "Columbia": {
+      "probability": 0.03720000013709068,
+      "reason": "wind + wet ground"
+    },
+    "Cowlitz": {
+      "probability": 0.20200000703334808,
+      "reason": "wind + wet ground"
+    },
+    "Douglas": {
+      "probability": 0.023399999365210533,
+      "reason": "gusty winds"
+    },
+    "Ferry": {
+      "probability": 0.0007999999797903001,
+      "reason": "gusty winds"
+    },
+    "Franklin": {
+      "probability": 0.0008999999845400453,
+      "reason": "gusty winds"
+    },
+    "Garfield": {
+      "probability": 0.0008999999845400453,
+      "reason": "gusty winds"
+    },
+    "Grant": {
+      "probability": 0.02019999921321869,
+      "reason": "gusty winds"
+    },
+    "Grays Harbor": {
+      "probability": 0.7032999992370605,
+      "reason": "wind + wet ground"
+    },
+    "Island": {
+      "probability": 0.16459999978542328,
+      "reason": "wind + wet ground"
+    },
+    "Jefferson": {
+      "probability": 0.12139999866485596,
+      "reason": "wind + wet ground"
+    },
+    "King": {
+      "probability": 0.6319000124931335,
+      "reason": "wind + wet ground"
+    },
+    "Kitsap": {
+      "probability": 0.04610000178217888,
+      "reason": "wind + wet ground"
+    },
+    "Kittitas": {
+      "probability": 0.00800000037997961,
+      "reason": "gusty winds"
+    },
+    "Klickitat": {
+      "probability": 0.03200000151991844,
+      "reason": "gusty winds"
+    },
+    "Lewis": {
+      "probability": 0.39989998936653137,
+      "reason": "wind + wet ground"
+    },
+    "Lincoln": {
+      "probability": 0.023399999365210533,
+      "reason": "gusty winds"
+    },
+    "Mason": {
+      "probability": 0.6342999935150146,
+      "reason": "wind + wet ground"
+    },
+    "Okanogan": {
+      "probability": 0.02019999921321869,
+      "reason": "gusty winds"
+    },
+    "Pacific": {
+      "probability": 0.7202000021934509,
+      "reason": "wind + wet ground"
+    },
+    "Pend Oreille": {
+      "probability": 0.0010000000474974513,
+      "reason": "gusty winds"
+    },
+    "Pierce": {
+      "probability": 0.2563000023365021,
+      "reason": "wind + wet ground"
+    },
+    "San Juan": {
+      "probability": 0.20999999344348907,
+      "reason": "wind + wet ground"
+    },
+    "Skagit": {
+      "probability": 0.8669000267982483,
+      "reason": "wind + wet ground"
+    },
+    "Skamania": {
+      "probability": 0.7361999750137329,
+      "reason": "wind + wet ground"
+    },
+    "Snohomish": {
+      "probability": 0.4422999918460846,
+      "reason": "wind + wet ground"
+    },
+    "Spokane": {
+      "probability": 0.018200000748038292,
+      "reason": "gusty winds"
+    },
+    "Stevens": {
+      "probability": 0.0008999999845400453,
+      "reason": "gusty winds"
+    },
+    "Thurston": {
+      "probability": 0.020600000396370888,
+      "reason": "gusty winds"
+    },
+    "Wahkiakum": {
+      "probability": 0.2012999951839447,
+      "reason": "wind + wet ground"
+    },
+    "Walla Walla": {
+      "probability": 0.0007999999797903001,
+      "reason": "wind + wet ground"
+    },
+    "Whatcom": {
+      "probability": 0.9185000061988831,
+      "reason": "wind + wet ground"
+    },
+    "Whitman": {
+      "probability": 0.00039999998989515007,
+      "reason": "wind + wet ground"
+    },
+    "Yakima": {
+      "probability": 0.02019999921321869,
+      "reason": "gusty winds"
+    }
+  }
+}
