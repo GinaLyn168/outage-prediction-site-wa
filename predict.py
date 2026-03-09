@@ -1,3 +1,5 @@
+# Based on the test JSON generation code in the colab notebook
+
 import json
 import requests
 import pandas as pd
@@ -13,19 +15,13 @@ feature_cols = [
     "precip_7d_mm"
 ]
 
-# ---------------------------------------------------
 # LOAD MODEL
-# ---------------------------------------------------
-
 model = XGBClassifier()
 model.load_model(MODEL_PATH)
 
 print("Model loaded")
 
-# ---------------------------------------------------
 # LOAD WA COUNTY CENTROIDS
-# ---------------------------------------------------
-
 def load_wa_centroids():
     url = "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2023_Gazetteer/2023_Gaz_counties_national.zip"
 
@@ -55,10 +51,7 @@ centroids = load_wa_centroids()
 
 print("Loaded centroids:", len(centroids))
 
-# ---------------------------------------------------
 # WEATHER API FETCH (ALL COUNTIES)
-# ---------------------------------------------------
-
 lat_str = ",".join(centroids["latitude"].astype(str))
 lon_str = ",".join(centroids["longitude"].astype(str))
 
@@ -80,9 +73,7 @@ locations = weather
 
 print("Weather received:", len(locations))
 
-# ---------------------------------------------------
 # BUILD DAILY FEATURES
-# ---------------------------------------------------
 
 daily_parts = []
 
@@ -121,10 +112,7 @@ live_df = pd.concat(daily_parts)
 
 print("Daily feature table built")
 
-# ---------------------------------------------------
 # SELECT TODAY
-# ---------------------------------------------------
-
 today = pd.Timestamp.now(tz="America/Los_Angeles").normalize().tz_localize(None)
 
 site_df = live_df[live_df["date"] == today]
@@ -143,20 +131,14 @@ else:
 
 print("Prediction date:", latest)
 
-# ---------------------------------------------------
 # RUN MODEL
-# ---------------------------------------------------
-
 site_df["outage_prob"] = model.predict_proba(site_df[feature_cols])[:,1]
 
 site_df["probability"] = site_df["outage_prob"].round(4)
 
 print("Predictions complete")
 
-# ---------------------------------------------------
 # REASON GENERATION
-# ---------------------------------------------------
-
 def risk_reason(row):
 
     wind = row["wind_max_mps"]
@@ -183,10 +165,7 @@ site_df["reason"] = site_df.apply(
 
 print(site_df[["county","probability","reason"]].head())
 
-# ---------------------------------------------------
 # EXPORT JSON
-# ---------------------------------------------------
-
 predictions = {
     row["county"]: {
         "probability": float(row["probability"]),
