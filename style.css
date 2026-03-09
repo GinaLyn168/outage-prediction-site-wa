@@ -1,25 +1,43 @@
+/* Making the map span almost the entire webpage */
 #map {
     height: 97.5vh;
 }
 
+/* Styling the title for clarity */
+.title {
+  position: absolute;
+  font: 32px Arial, Helvetica, sans-serif;
+  text-align: left;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  margin: 0;
+  top: 25px;
+  left: 30%;
+  font-weight: bold;
+  color: white;
+  z-index: 999;
+  pointer-events: none; /* Does not trigger the text pointer */
+}
+
+/* Info box styling */
 .info {
     padding: 6px 8px;
-    font: 14px/16px Arial, Helvetica, sans-serif;
+    font: 16px/18px Arial, Helvetica, sans-serif;
     background: white;
     background: rgba(255,255,255,0.8);
     box-shadow: 0 0 15px rgba(0,0,0,0.2);
     border-radius: 5px;
 }
-.info h4 {
+.info h4 { /* Info box title */
     margin: 0 0 5px;
     color: #777;
 }
 
+/* Legend box styling */
 .legend {
     line-height: 18px;
     color: #555;
 }
-.legend i {
+.legend i { /* Legend box title */
     width: 18px;
     height: 18px;
     float: left;
@@ -27,6 +45,7 @@
     opacity: 0.7;
 }
 
+/* Styling the tooltip (the "click me!") */
 .tooltipTM {
     font-size: 10px;
     font-weight: bold;
@@ -37,7 +56,8 @@
     display: none;
 }
 
+/* Styling the little reason text */
 #reason {
-    font-size: 13px;
+    font-size: 14px;
     color: #707070;
 }
