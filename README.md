@@ -5,6 +5,6 @@ Deployed on Vercel. Click [here](https://outage-prediction-site-wa.vercel.app/) 
 Do not directly access *html* file in folder. The Javascript does not run correctly when the *html* file is directly opened in a browser.
 
 ---
-Credits to Leaflet.
+Map credits to Leaflet.
 
 
