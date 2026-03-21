@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-03-20",
+  "generated_at": "2026-03-21",
   "predictions": {
     "Adams": {
-      "probability": 0.0020000000949949026,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Asotin": {
-      "probability": 0.0008999999845400453,
+      "probability": 0.05990000069141388,
       "reason": ""
     },
     "Benton": {
-      "probability": 0.00800000037997961,
+      "probability": 0.1331000030040741,
       "reason": ""
     },
     "Chelan": {
-      "probability": 0.9225999712944031,
-      "reason": "wind + wet ground"
+      "probability": 0.05260000005364418,
+      "reason": ""
     },
     "Clallam": {
-      "probability": 0.4291999936103821,
-      "reason": "wind + wet ground"
+      "probability": 0.031199999153614044,
+      "reason": ""
     },
     "Clark": {
-      "probability": 0.10589999705553055,
+      "probability": 0.008100000210106373,
       "reason": ""
     },
     "Columbia": {
-      "probability": 0.0013000000035390258,
+      "probability": 0.18050000071525574,
       "reason": ""
     },
     "Cowlitz": {
-      "probability": 0.8277999758720398,
+      "probability": 0.21220000088214874,
       "reason": "wind + wet ground"
     },
     "Douglas": {
@@ -38,123 +38,123 @@
       "reason": ""
     },
     "Ferry": {
-      "probability": 0.10450000315904617,
-      "reason": ""
-    },
-    "Franklin": {
       "probability": 0.002400000113993883,
       "reason": ""
     },
+    "Franklin": {
+      "probability": 0.19419999420642853,
+      "reason": ""
+    },
     "Garfield": {
-      "probability": 0.0012000000569969416,
+      "probability": 0.11800000071525574,
       "reason": ""
     },
     "Grant": {
-      "probability": 0.00559999980032444,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Grays Harbor": {
-      "probability": 0.45500001311302185,
-      "reason": "wind + wet ground"
+      "probability": 0.014700000174343586,
+      "reason": ""
     },
     "Island": {
-      "probability": 0.1395999938249588,
+      "probability": 0.04989999905228615,
       "reason": ""
     },
     "Jefferson": {
-      "probability": 0.7476999759674072,
-      "reason": "wind + wet ground"
+      "probability": 0.022700000554323196,
+      "reason": ""
     },
     "King": {
-      "probability": 0.5157999992370605,
+      "probability": 0.6685000061988831,
       "reason": "wind + wet ground"
     },
     "Kitsap": {
-      "probability": 0.07880000025033951,
-      "reason": ""
+      "probability": 0.2971000075340271,
+      "reason": "wind + wet ground"
     },
     "Kittitas": {
-      "probability": 0.04129999876022339,
+      "probability": 0.021700000390410423,
       "reason": ""
     },
     "Klickitat": {
-      "probability": 0.0010999999940395355,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Lewis": {
-      "probability": 0.27160000801086426,
+      "probability": 0.3772999942302704,
       "reason": "wind + wet ground"
     },
     "Lincoln": {
-      "probability": 0.14429999887943268,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Mason": {
-      "probability": 0.35589998960494995,
-      "reason": "wind + wet ground"
+      "probability": 0.10400000214576721,
+      "reason": ""
     },
     "Okanogan": {
-      "probability": 0.11640000343322754,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Pacific": {
-      "probability": 0.33629998564720154,
-      "reason": "wind + wet ground"
+      "probability": 0.12680000066757202,
+      "reason": ""
     },
     "Pend Oreille": {
-      "probability": 0.21549999713897705,
-      "reason": "wind + wet ground"
+      "probability": 0.0203000009059906,
+      "reason": ""
     },
     "Pierce": {
-      "probability": 0.22669999301433563,
-      "reason": "wind + wet ground"
+      "probability": 0.14659999310970306,
+      "reason": ""
     },
     "San Juan": {
-      "probability": 0.49309998750686646,
-      "reason": "wind + wet ground"
+      "probability": 0.16979999840259552,
+      "reason": ""
     },
     "Skagit": {
-      "probability": 0.35850000381469727,
-      "reason": "wind + wet ground"
+      "probability": 0.05220000073313713,
+      "reason": ""
     },
     "Skamania": {
-      "probability": 0.9139999747276306,
-      "reason": "wind + wet ground"
+      "probability": 0.011099999770522118,
+      "reason": ""
     },
     "Snohomish": {
-      "probability": 0.7893000245094299,
-      "reason": "wind + wet ground"
+      "probability": 0.09640000015497208,
+      "reason": ""
     },
     "Spokane": {
-      "probability": 0.0008999999845400453,
+      "probability": 0.0019000000320374966,
       "reason": ""
     },
     "Stevens": {
-      "probability": 0.15760000050067902,
+      "probability": 0.002300000051036477,
       "reason": ""
     },
     "Thurston": {
-      "probability": 0.8946999907493591,
+      "probability": 0.2833000123500824,
       "reason": "wind + wet ground"
     },
     "Wahkiakum": {
-      "probability": 0.38749998807907104,
+      "probability": 0.263700008392334,
       "reason": "wind + wet ground"
     },
     "Walla Walla": {
-      "probability": 0.0008999999845400453,
+      "probability": 0.1315000057220459,
       "reason": ""
     },
     "Whatcom": {
-      "probability": 0.7957000136375427,
-      "reason": "wind + wet ground"
+      "probability": 0.012000000104308128,
+      "reason": ""
     },
     "Whitman": {
-      "probability": 0.054099999368190765,
+      "probability": 0.09350000321865082,
       "reason": ""
     },
     "Yakima": {
-      "probability": 0.0017999999690800905,
+      "probability": 0.007300000172108412,
       "reason": ""
     }
   }
