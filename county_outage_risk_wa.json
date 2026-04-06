@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05",
+  "generated_at": "2026-04-06",
   "predictions": {
     "Adams": {
       "probability": 0.00039999998989515007,
@@ -18,7 +18,7 @@
       "reason": ""
     },
     "Clallam": {
-      "probability": 0.021199999377131462,
+      "probability": 0.0007999999797903001,
       "reason": ""
     },
     "Clark": {
@@ -30,11 +30,11 @@
       "reason": ""
     },
     "Cowlitz": {
-      "probability": 0.0006000000284984708,
+      "probability": 0.00139999995008111,
       "reason": ""
     },
     "Douglas": {
-      "probability": 0.0010999999940395355,
+      "probability": 0.0012000000569969416,
       "reason": ""
     },
     "Ferry": {
@@ -58,7 +58,7 @@
       "reason": ""
     },
     "Island": {
-      "probability": 0.0012000000569969416,
+      "probability": 0.0013000000035390258,
       "reason": ""
     },
     "Jefferson": {
@@ -110,7 +110,7 @@
       "reason": ""
     },
     "San Juan": {
-      "probability": 0.01940000057220459,
+      "probability": 0.0007999999797903001,
       "reason": ""
     },
     "Skagit": {
@@ -122,7 +122,7 @@
       "reason": ""
     },
     "Snohomish": {
-      "probability": 0.11020000278949738,
+      "probability": 0.004699999932199717,
       "reason": ""
     },
     "Spokane": {
@@ -146,7 +146,7 @@
       "reason": ""
     },
     "Whatcom": {
-      "probability": 0.021299999207258224,
+      "probability": 0.0008999999845400453,
       "reason": ""
     },
     "Whitman": {
