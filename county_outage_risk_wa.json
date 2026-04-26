@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25",
+  "generated_at": "2026-04-26",
   "predictions": {
     "Adams": {
       "probability": 0.0007999999797903001,
@@ -54,7 +54,7 @@
       "reason": ""
     },
     "Grays Harbor": {
-      "probability": 0.0032999999821186066,
+      "probability": 0.0007999999797903001,
       "reason": ""
     },
     "Island": {
@@ -70,15 +70,15 @@
       "reason": ""
     },
     "Kitsap": {
-      "probability": 0.0007999999797903001,
+      "probability": 0.0017000000225380063,
       "reason": ""
     },
     "Kittitas": {
-      "probability": 0.0007999999797903001,
+      "probability": 0.0008999999845400453,
       "reason": ""
     },
     "Klickitat": {
-      "probability": 0.0013000000035390258,
+      "probability": 0.07029999792575836,
       "reason": ""
     },
     "Lewis": {
@@ -118,8 +118,8 @@
       "reason": ""
     },
     "Skamania": {
-      "probability": 0.25699999928474426,
-      "reason": "wind + wet ground"
+      "probability": 0.0015999999595806003,
+      "reason": ""
     },
     "Snohomish": {
       "probability": 0.0010000000474974513,
