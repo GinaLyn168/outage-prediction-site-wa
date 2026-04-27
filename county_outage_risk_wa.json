@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26",
+  "generated_at": "2026-04-27",
   "predictions": {
     "Adams": {
       "probability": 0.0007999999797903001,
@@ -50,8 +50,8 @@
       "reason": ""
     },
     "Grant": {
-      "probability": 0.00039999998989515007,
-      "reason": ""
+      "probability": 0.21899999678134918,
+      "reason": "wind + wet ground"
     },
     "Grays Harbor": {
       "probability": 0.0007999999797903001,
@@ -70,7 +70,7 @@
       "reason": ""
     },
     "Kitsap": {
-      "probability": 0.0017000000225380063,
+      "probability": 0.0007999999797903001,
       "reason": ""
     },
     "Kittitas": {
@@ -78,11 +78,11 @@
       "reason": ""
     },
     "Klickitat": {
-      "probability": 0.07029999792575836,
+      "probability": 0.0013000000035390258,
       "reason": ""
     },
     "Lewis": {
-      "probability": 0.0019000000320374966,
+      "probability": 0.04430000111460686,
       "reason": ""
     },
     "Lincoln": {
@@ -90,7 +90,7 @@
       "reason": ""
     },
     "Mason": {
-      "probability": 0.0019000000320374966,
+      "probability": 0.037300001829862595,
       "reason": ""
     },
     "Okanogan": {
@@ -98,7 +98,7 @@
       "reason": ""
     },
     "Pacific": {
-      "probability": 0.0007999999797903001,
+      "probability": 0.02710000053048134,
       "reason": ""
     },
     "Pend Oreille": {
