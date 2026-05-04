@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03",
+  "generated_at": "2026-05-04",
   "predictions": {
     "Adams": {
       "probability": 0.02019999921321869,
@@ -54,7 +54,7 @@
       "reason": ""
     },
     "Grays Harbor": {
-      "probability": 0.03680000081658363,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Island": {
@@ -74,7 +74,7 @@
       "reason": ""
     },
     "Kittitas": {
-      "probability": 0.02019999921321869,
+      "probability": 0.023399999365210533,
       "reason": ""
     },
     "Klickitat": {
@@ -122,7 +122,7 @@
       "reason": ""
     },
     "Snohomish": {
-      "probability": 0.02019999921321869,
+      "probability": 0.094200000166893,
       "reason": ""
     },
     "Spokane": {
@@ -138,7 +138,7 @@
       "reason": ""
     },
     "Wahkiakum": {
-      "probability": 0.0019000000320374966,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Walla Walla": {
@@ -154,7 +154,7 @@
       "reason": ""
     },
     "Yakima": {
-      "probability": 0.02019999921321869,
+      "probability": 0.023399999365210533,
       "reason": ""
     }
   }
