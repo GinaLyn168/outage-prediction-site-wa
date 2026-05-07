@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06",
+  "generated_at": "2026-05-07",
   "predictions": {
     "Adams": {
       "probability": 0.02019999921321869,
@@ -22,7 +22,7 @@
       "reason": ""
     },
     "Clark": {
-      "probability": 0.02019999921321869,
+      "probability": 0.09849999845027924,
       "reason": ""
     },
     "Columbia": {
@@ -30,11 +30,11 @@
       "reason": ""
     },
     "Cowlitz": {
-      "probability": 0.02019999921321869,
+      "probability": 0.03680000081658363,
       "reason": ""
     },
     "Douglas": {
-      "probability": 0.023399999365210533,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Ferry": {
@@ -70,7 +70,7 @@
       "reason": ""
     },
     "Kitsap": {
-      "probability": 0.02019999921321869,
+      "probability": 0.05490000173449516,
       "reason": ""
     },
     "Kittitas": {
@@ -94,7 +94,7 @@
       "reason": ""
     },
     "Okanogan": {
-      "probability": 0.023399999365210533,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Pacific": {
@@ -122,7 +122,7 @@
       "reason": ""
     },
     "Snohomish": {
-      "probability": 0.02019999921321869,
+      "probability": 0.05779999867081642,
       "reason": ""
     },
     "Spokane": {
@@ -134,7 +134,7 @@
       "reason": ""
     },
     "Thurston": {
-      "probability": 0.02019999921321869,
+      "probability": 0.03680000081658363,
       "reason": ""
     },
     "Wahkiakum": {
