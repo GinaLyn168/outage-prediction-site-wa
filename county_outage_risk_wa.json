@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11",
+  "generated_at": "2026-05-12",
   "predictions": {
     "Adams": {
       "probability": 0.02019999921321869,
@@ -22,7 +22,7 @@
       "reason": ""
     },
     "Clark": {
-      "probability": 0.03680000081658363,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Columbia": {
@@ -46,7 +46,7 @@
       "reason": ""
     },
     "Garfield": {
-      "probability": 0.023399999365210533,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Grant": {
@@ -62,7 +62,7 @@
       "reason": ""
     },
     "Jefferson": {
-      "probability": 0.05490000173449516,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "King": {
@@ -138,7 +138,7 @@
       "reason": ""
     },
     "Wahkiakum": {
-      "probability": 0.05270000174641609,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Walla Walla": {
@@ -146,7 +146,7 @@
       "reason": ""
     },
     "Whatcom": {
-      "probability": 0.02019999921321869,
+      "probability": 0.03680000081658363,
       "reason": ""
     },
     "Whitman": {
