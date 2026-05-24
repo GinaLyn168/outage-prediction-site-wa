@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-23",
+  "generated_at": "2026-05-24",
   "predictions": {
     "Adams": {
       "probability": 0.02019999921321869,
       "reason": ""
     },
     "Asotin": {
-      "probability": 0.001500000013038516,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Benton": {
@@ -22,7 +22,7 @@
       "reason": ""
     },
     "Clark": {
-      "probability": 0.02019999921321869,
+      "probability": 0.05490000173449516,
       "reason": ""
     },
     "Columbia": {
@@ -82,7 +82,7 @@
       "reason": ""
     },
     "Lewis": {
-      "probability": 0.02019999921321869,
+      "probability": 0.05490000173449516,
       "reason": ""
     },
     "Lincoln": {
@@ -102,7 +102,7 @@
       "reason": ""
     },
     "Pend Oreille": {
-      "probability": 0.0017999999690800905,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Pierce": {
@@ -126,7 +126,7 @@
       "reason": ""
     },
     "Spokane": {
-      "probability": 0.0017999999690800905,
+      "probability": 0.0019000000320374966,
       "reason": ""
     },
     "Stevens": {
@@ -138,7 +138,7 @@
       "reason": ""
     },
     "Wahkiakum": {
-      "probability": 0.02019999921321869,
+      "probability": 0.05490000173449516,
       "reason": ""
     },
     "Walla Walla": {
