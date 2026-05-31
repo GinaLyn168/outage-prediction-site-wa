@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-30",
+  "generated_at": "2026-05-31",
   "predictions": {
     "Adams": {
       "probability": 0.0019000000320374966,
       "reason": ""
     },
     "Asotin": {
-      "probability": 0.025200000032782555,
+      "probability": 0.03579999879002571,
       "reason": ""
     },
     "Benton": {
-      "probability": 0.030899999663233757,
+      "probability": 0.0007999999797903001,
       "reason": ""
     },
     "Chelan": {
@@ -34,7 +34,7 @@
       "reason": ""
     },
     "Douglas": {
-      "probability": 0.02160000056028366,
+      "probability": 0.0008999999845400453,
       "reason": ""
     },
     "Ferry": {
@@ -50,7 +50,7 @@
       "reason": ""
     },
     "Grant": {
-      "probability": 0.013100000098347664,
+      "probability": 0.0007999999797903001,
       "reason": ""
     },
     "Grays Harbor": {
@@ -74,19 +74,19 @@
       "reason": ""
     },
     "Kittitas": {
-      "probability": 0.09440000355243683,
+      "probability": 0.0010999999940395355,
       "reason": ""
     },
     "Klickitat": {
-      "probability": 0.40119999647140503,
-      "reason": "wind + wet ground"
+      "probability": 0.001500000013038516,
+      "reason": ""
     },
     "Lewis": {
       "probability": 0.019200000911951065,
       "reason": ""
     },
     "Lincoln": {
-      "probability": 0.014800000004470348,
+      "probability": 0.0008999999845400453,
       "reason": ""
     },
     "Mason": {
@@ -102,7 +102,7 @@
       "reason": ""
     },
     "Pend Oreille": {
-      "probability": 0.026000000536441803,
+      "probability": 0.0406000018119812,
       "reason": ""
     },
     "Pierce": {
@@ -126,11 +126,11 @@
       "reason": ""
     },
     "Spokane": {
-      "probability": 0.015300000086426735,
+      "probability": 0.00039999998989515007,
       "reason": ""
     },
     "Stevens": {
-      "probability": 0.06310000270605087,
+      "probability": 0.0008999999845400453,
       "reason": ""
     },
     "Thurston": {
@@ -150,11 +150,11 @@
       "reason": ""
     },
     "Whitman": {
-      "probability": 0.061500001698732376,
+      "probability": 0.019500000402331352,
       "reason": ""
     },
     "Yakima": {
-      "probability": 0.05249999836087227,
+      "probability": 0.0008999999845400453,
       "reason": ""
     }
   }
