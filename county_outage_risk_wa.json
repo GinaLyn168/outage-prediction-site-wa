@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13",
+  "generated_at": "2026-06-14",
   "predictions": {
     "Adams": {
       "probability": 0.0019000000320374966,
@@ -54,7 +54,7 @@
       "reason": ""
     },
     "Grays Harbor": {
-      "probability": 0.008299999870359898,
+      "probability": 0.0052999998442828655,
       "reason": ""
     },
     "Island": {
@@ -102,7 +102,7 @@
       "reason": ""
     },
     "Pend Oreille": {
-      "probability": 0.03929999843239784,
+      "probability": 0.0007999999797903001,
       "reason": ""
     },
     "Pierce": {
@@ -146,7 +146,7 @@
       "reason": ""
     },
     "Whatcom": {
-      "probability": 0.002300000051036477,
+      "probability": 0.00279999990016222,
       "reason": ""
     },
     "Whitman": {
