@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-16",
+  "generated_at": "2026-06-17",
   "predictions": {
     "Adams": {
-      "probability": 0.023399999365210533,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Asotin": {
@@ -10,11 +10,11 @@
       "reason": ""
     },
     "Benton": {
-      "probability": 0.023399999365210533,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Chelan": {
-      "probability": 0.0019000000320374966,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Clallam": {
@@ -26,7 +26,7 @@
       "reason": ""
     },
     "Columbia": {
-      "probability": 0.023399999365210533,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Cowlitz": {
@@ -34,23 +34,23 @@
       "reason": ""
     },
     "Douglas": {
-      "probability": 0.023399999365210533,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Ferry": {
-      "probability": 0.0010000000474974513,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Franklin": {
-      "probability": 0.023399999365210533,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Garfield": {
-      "probability": 0.023399999365210533,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Grant": {
-      "probability": 0.023399999365210533,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Grays Harbor": {
@@ -58,7 +58,7 @@
       "reason": ""
     },
     "Island": {
-      "probability": 0.023399999365210533,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Jefferson": {
@@ -66,7 +66,7 @@
       "reason": ""
     },
     "King": {
-      "probability": 0.0010999999940395355,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Kitsap": {
@@ -78,31 +78,31 @@
       "reason": ""
     },
     "Klickitat": {
-      "probability": 0.023399999365210533,
-      "reason": ""
-    },
-    "Lewis": {
-      "probability": 0.04479999840259552,
-      "reason": ""
-    },
-    "Lincoln": {
-      "probability": 0.023399999365210533,
-      "reason": ""
-    },
-    "Mason": {
       "probability": 0.02019999921321869,
       "reason": ""
     },
+    "Lewis": {
+      "probability": 0.02019999921321869,
+      "reason": ""
+    },
+    "Lincoln": {
+      "probability": 0.02019999921321869,
+      "reason": ""
+    },
+    "Mason": {
+      "probability": 0.09849999845027924,
+      "reason": ""
+    },
     "Okanogan": {
-      "probability": 0.023399999365210533,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Pacific": {
-      "probability": 0.0008999999845400453,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Pend Oreille": {
-      "probability": 0.0019000000320374966,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Pierce": {
@@ -118,7 +118,7 @@
       "reason": ""
     },
     "Skamania": {
-      "probability": 0.0019000000320374966,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Snohomish": {
@@ -126,7 +126,7 @@
       "reason": ""
     },
     "Spokane": {
-      "probability": 0.0010000000474974513,
+      "probability": 0.0017999999690800905,
       "reason": ""
     },
     "Stevens": {
@@ -138,23 +138,23 @@
       "reason": ""
     },
     "Wahkiakum": {
-      "probability": 0.0012000000569969416,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Walla Walla": {
-      "probability": 0.023399999365210533,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Whatcom": {
-      "probability": 0.00039999998989515007,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Whitman": {
-      "probability": 0.023399999365210533,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Yakima": {
-      "probability": 0.023399999365210533,
+      "probability": 0.02019999921321869,
       "reason": ""
     }
   }
