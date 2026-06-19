@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18",
+  "generated_at": "2026-06-19",
   "predictions": {
     "Adams": {
       "probability": 0.02019999921321869,
@@ -126,7 +126,7 @@
       "reason": ""
     },
     "Spokane": {
-      "probability": 0.0017999999690800905,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Stevens": {
@@ -138,7 +138,7 @@
       "reason": ""
     },
     "Wahkiakum": {
-      "probability": 0.05270000174641609,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Walla Walla": {
