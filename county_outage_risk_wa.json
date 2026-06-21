@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20",
+  "generated_at": "2026-06-21",
   "predictions": {
     "Adams": {
       "probability": 0.02019999921321869,
@@ -34,7 +34,7 @@
       "reason": ""
     },
     "Douglas": {
-      "probability": 0.023399999365210533,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Ferry": {
@@ -90,7 +90,7 @@
       "reason": ""
     },
     "Mason": {
-      "probability": 0.02019999921321869,
+      "probability": 0.05270000174641609,
       "reason": ""
     },
     "Okanogan": {
