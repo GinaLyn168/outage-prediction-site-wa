@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22",
+  "generated_at": "2026-06-23",
   "predictions": {
     "Adams": {
       "probability": 0.02019999921321869,
@@ -90,7 +90,7 @@
       "reason": ""
     },
     "Mason": {
-      "probability": 0.02019999921321869,
+      "probability": 0.03680000081658363,
       "reason": ""
     },
     "Okanogan": {
@@ -134,11 +134,11 @@
       "reason": ""
     },
     "Thurston": {
-      "probability": 0.02019999921321869,
+      "probability": 0.03680000081658363,
       "reason": ""
     },
     "Wahkiakum": {
-      "probability": 0.03680000081658363,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Walla Walla": {
