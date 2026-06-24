@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23",
+  "generated_at": "2026-06-24",
   "predictions": {
     "Adams": {
       "probability": 0.02019999921321869,
@@ -14,7 +14,7 @@
       "reason": ""
     },
     "Chelan": {
-      "probability": 0.02019999921321869,
+      "probability": 0.038600001484155655,
       "reason": ""
     },
     "Clallam": {
@@ -34,7 +34,7 @@
       "reason": ""
     },
     "Douglas": {
-      "probability": 0.02019999921321869,
+      "probability": 0.023399999365210533,
       "reason": ""
     },
     "Ferry": {
@@ -58,11 +58,11 @@
       "reason": ""
     },
     "Island": {
-      "probability": 0.02019999921321869,
+      "probability": 0.023399999365210533,
       "reason": ""
     },
     "Jefferson": {
-      "probability": 0.02019999921321869,
+      "probability": 0.022199999541044235,
       "reason": ""
     },
     "King": {
@@ -74,7 +74,7 @@
       "reason": ""
     },
     "Kittitas": {
-      "probability": 0.02019999921321869,
+      "probability": 0.038600001484155655,
       "reason": ""
     },
     "Klickitat": {
@@ -90,11 +90,11 @@
       "reason": ""
     },
     "Mason": {
-      "probability": 0.03680000081658363,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Okanogan": {
-      "probability": 0.02019999921321869,
+      "probability": 0.14669999480247498,
       "reason": ""
     },
     "Pacific": {
@@ -134,7 +134,7 @@
       "reason": ""
     },
     "Thurston": {
-      "probability": 0.03680000081658363,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Wahkiakum": {
@@ -154,7 +154,7 @@
       "reason": ""
     },
     "Yakima": {
-      "probability": 0.02019999921321869,
+      "probability": 0.023399999365210533,
       "reason": ""
     }
   }
