@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-05",
+  "generated_at": "2026-07-06",
   "predictions": {
     "Adams": {
-      "probability": 0.0019000000320374966,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Asotin": {
-      "probability": 0.0017999999690800905,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Benton": {
@@ -26,7 +26,7 @@
       "reason": ""
     },
     "Columbia": {
-      "probability": 0.0007999999797903001,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Cowlitz": {
@@ -38,15 +38,15 @@
       "reason": ""
     },
     "Ferry": {
-      "probability": 0.001500000013038516,
-      "reason": ""
-    },
-    "Franklin": {
       "probability": 0.0017999999690800905,
       "reason": ""
     },
+    "Franklin": {
+      "probability": 0.02019999921321869,
+      "reason": ""
+    },
     "Garfield": {
-      "probability": 0.0007999999797903001,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Grant": {
@@ -74,7 +74,7 @@
       "reason": ""
     },
     "Kittitas": {
-      "probability": 0.023399999365210533,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Klickitat": {
@@ -98,11 +98,11 @@
       "reason": ""
     },
     "Pacific": {
-      "probability": 0.0010000000474974513,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Pend Oreille": {
-      "probability": 0.008200000040233135,
+      "probability": 0.0007999999797903001,
       "reason": ""
     },
     "Pierce": {
@@ -130,7 +130,7 @@
       "reason": ""
     },
     "Stevens": {
-      "probability": 0.00039999998989515007,
+      "probability": 0.0010000000474974513,
       "reason": ""
     },
     "Thurston": {
@@ -142,11 +142,11 @@
       "reason": ""
     },
     "Walla Walla": {
-      "probability": 0.0020000000949949026,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Whatcom": {
-      "probability": 0.015699999406933784,
+      "probability": 0.0007999999797903001,
       "reason": ""
     },
     "Whitman": {
