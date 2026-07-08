@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07",
+  "generated_at": "2026-07-08",
   "predictions": {
     "Adams": {
       "probability": 0.02019999921321869,
@@ -46,7 +46,7 @@
       "reason": ""
     },
     "Garfield": {
-      "probability": 0.02019999921321869,
+      "probability": 0.023399999365210533,
       "reason": ""
     },
     "Grant": {
@@ -58,11 +58,11 @@
       "reason": ""
     },
     "Island": {
-      "probability": 0.038600001484155655,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Jefferson": {
-      "probability": 0.03539999946951866,
+      "probability": 0.0017999999690800905,
       "reason": ""
     },
     "King": {
@@ -146,7 +146,7 @@
       "reason": ""
     },
     "Whatcom": {
-      "probability": 0.0007999999797903001,
+      "probability": 0.0010000000474974513,
       "reason": ""
     },
     "Whitman": {
