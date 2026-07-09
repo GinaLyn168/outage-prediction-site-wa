@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08",
+  "generated_at": "2026-07-09",
   "predictions": {
     "Adams": {
       "probability": 0.02019999921321869,
@@ -14,11 +14,11 @@
       "reason": ""
     },
     "Chelan": {
-      "probability": 0.0020000000949949026,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Clallam": {
-      "probability": 0.001500000013038516,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Clark": {
@@ -46,7 +46,7 @@
       "reason": ""
     },
     "Garfield": {
-      "probability": 0.023399999365210533,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Grant": {
@@ -54,7 +54,7 @@
       "reason": ""
     },
     "Grays Harbor": {
-      "probability": 0.0019000000320374966,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Island": {
@@ -62,7 +62,7 @@
       "reason": ""
     },
     "Jefferson": {
-      "probability": 0.0017999999690800905,
+      "probability": 0.03680000081658363,
       "reason": ""
     },
     "King": {
@@ -110,11 +110,11 @@
       "reason": ""
     },
     "San Juan": {
-      "probability": 0.0010000000474974513,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Skagit": {
-      "probability": 0.0017999999690800905,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Skamania": {
@@ -146,7 +146,7 @@
       "reason": ""
     },
     "Whatcom": {
-      "probability": 0.0010000000474974513,
+      "probability": 0.0007999999797903001,
       "reason": ""
     },
     "Whitman": {
