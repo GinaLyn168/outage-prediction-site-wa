@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09",
+  "generated_at": "2026-07-10",
   "predictions": {
     "Adams": {
       "probability": 0.02019999921321869,
@@ -62,7 +62,7 @@
       "reason": ""
     },
     "Jefferson": {
-      "probability": 0.03680000081658363,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "King": {
@@ -98,7 +98,7 @@
       "reason": ""
     },
     "Pacific": {
-      "probability": 0.02019999921321869,
+      "probability": 0.038600001484155655,
       "reason": ""
     },
     "Pend Oreille": {
@@ -146,7 +146,7 @@
       "reason": ""
     },
     "Whatcom": {
-      "probability": 0.0007999999797903001,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Whitman": {
