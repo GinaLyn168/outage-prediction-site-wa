@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19",
+  "generated_at": "2026-07-20",
   "predictions": {
     "Adams": {
       "probability": 0.02019999921321869,
@@ -18,11 +18,11 @@
       "reason": ""
     },
     "Clallam": {
-      "probability": 0.0017999999690800905,
+      "probability": 0.0008999999845400453,
       "reason": ""
     },
     "Clark": {
-      "probability": 0.02019999921321869,
+      "probability": 0.03869999945163727,
       "reason": ""
     },
     "Columbia": {
@@ -38,7 +38,7 @@
       "reason": ""
     },
     "Ferry": {
-      "probability": 0.02019999921321869,
+      "probability": 0.05270000174641609,
       "reason": ""
     },
     "Franklin": {
@@ -74,7 +74,7 @@
       "reason": ""
     },
     "Kittitas": {
-      "probability": 0.002099999925121665,
+      "probability": 0.0019000000320374966,
       "reason": ""
     },
     "Klickitat": {
@@ -82,7 +82,7 @@
       "reason": ""
     },
     "Lewis": {
-      "probability": 0.0007999999797903001,
+      "probability": 0.0017000000225380063,
       "reason": ""
     },
     "Lincoln": {
@@ -90,7 +90,7 @@
       "reason": ""
     },
     "Mason": {
-      "probability": 0.0007999999797903001,
+      "probability": 0.0017000000225380063,
       "reason": ""
     },
     "Okanogan": {
@@ -102,19 +102,19 @@
       "reason": ""
     },
     "Pend Oreille": {
-      "probability": 0.02019999921321869,
+      "probability": 0.03680000081658363,
       "reason": ""
     },
     "Pierce": {
-      "probability": 0.02019999921321869,
+      "probability": 0.03680000081658363,
       "reason": ""
     },
     "San Juan": {
-      "probability": 0.0034000000450760126,
+      "probability": 0.0007999999797903001,
       "reason": ""
     },
     "Skagit": {
-      "probability": 0.0019000000320374966,
+      "probability": 0.010499999858438969,
       "reason": ""
     },
     "Skamania": {
@@ -126,7 +126,7 @@
       "reason": ""
     },
     "Spokane": {
-      "probability": 0.02019999921321869,
+      "probability": 0.03680000081658363,
       "reason": ""
     },
     "Stevens": {
@@ -138,7 +138,7 @@
       "reason": ""
     },
     "Wahkiakum": {
-      "probability": 0.0019000000320374966,
+      "probability": 0.01269999984651804,
       "reason": ""
     },
     "Walla Walla": {
