@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20",
+  "generated_at": "2026-07-21",
   "predictions": {
     "Adams": {
       "probability": 0.02019999921321869,
@@ -22,7 +22,7 @@
       "reason": ""
     },
     "Clark": {
-      "probability": 0.03869999945163727,
+      "probability": 0.05270000174641609,
       "reason": ""
     },
     "Columbia": {
@@ -38,7 +38,7 @@
       "reason": ""
     },
     "Ferry": {
-      "probability": 0.05270000174641609,
+      "probability": 0.03680000081658363,
       "reason": ""
     },
     "Franklin": {
@@ -54,7 +54,7 @@
       "reason": ""
     },
     "Grays Harbor": {
-      "probability": 0.0017999999690800905,
+      "probability": 0.003800000064074993,
       "reason": ""
     },
     "Island": {
@@ -82,7 +82,7 @@
       "reason": ""
     },
     "Lewis": {
-      "probability": 0.0017000000225380063,
+      "probability": 0.0007999999797903001,
       "reason": ""
     },
     "Lincoln": {
@@ -102,19 +102,19 @@
       "reason": ""
     },
     "Pend Oreille": {
-      "probability": 0.03680000081658363,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Pierce": {
-      "probability": 0.03680000081658363,
+      "probability": 0.05779999867081642,
       "reason": ""
     },
     "San Juan": {
-      "probability": 0.0007999999797903001,
+      "probability": 0.003700000001117587,
       "reason": ""
     },
     "Skagit": {
-      "probability": 0.010499999858438969,
+      "probability": 0.0019000000320374966,
       "reason": ""
     },
     "Skamania": {
@@ -126,7 +126,7 @@
       "reason": ""
     },
     "Spokane": {
-      "probability": 0.03680000081658363,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Stevens": {
@@ -134,11 +134,11 @@
       "reason": ""
     },
     "Thurston": {
-      "probability": 0.0008999999845400453,
+      "probability": 0.004000000189989805,
       "reason": ""
     },
     "Wahkiakum": {
-      "probability": 0.01269999984651804,
+      "probability": 0.009700000286102295,
       "reason": ""
     },
     "Walla Walla": {
