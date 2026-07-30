@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29",
+  "generated_at": "2026-07-30",
   "predictions": {
     "Adams": {
       "probability": 0.02019999921321869,
@@ -14,7 +14,7 @@
       "reason": ""
     },
     "Chelan": {
-      "probability": 0.0019000000320374966,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Clallam": {
@@ -110,7 +110,7 @@
       "reason": ""
     },
     "San Juan": {
-      "probability": 0.013199999928474426,
+      "probability": 0.02930000051856041,
       "reason": ""
     },
     "Skagit": {
@@ -122,7 +122,7 @@
       "reason": ""
     },
     "Snohomish": {
-      "probability": 0.11240000277757645,
+      "probability": 0.0658000037074089,
       "reason": ""
     },
     "Spokane": {
