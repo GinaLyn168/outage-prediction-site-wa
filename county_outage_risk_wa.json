@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05",
+  "generated_at": "2026-08-06",
   "predictions": {
     "Adams": {
       "probability": 0.02019999921321869,
@@ -30,7 +30,7 @@
       "reason": ""
     },
     "Cowlitz": {
-      "probability": 0.0019000000320374966,
+      "probability": 0.009399999864399433,
       "reason": ""
     },
     "Douglas": {
@@ -50,7 +50,7 @@
       "reason": ""
     },
     "Grant": {
-      "probability": 0.05270000174641609,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Grays Harbor": {
@@ -62,7 +62,7 @@
       "reason": ""
     },
     "Jefferson": {
-      "probability": 0.00860000029206276,
+      "probability": 0.0017999999690800905,
       "reason": ""
     },
     "King": {
@@ -90,7 +90,7 @@
       "reason": ""
     },
     "Mason": {
-      "probability": 0.00800000037997961,
+      "probability": 0.0019000000320374966,
       "reason": ""
     },
     "Okanogan": {
@@ -106,15 +106,15 @@
       "reason": ""
     },
     "Pierce": {
-      "probability": 0.0017000000225380063,
+      "probability": 0.0007999999797903001,
       "reason": ""
     },
     "San Juan": {
-      "probability": 0.0008999999845400453,
+      "probability": 0.0035000001080334187,
       "reason": ""
     },
     "Skagit": {
-      "probability": 0.0019000000320374966,
+      "probability": 0.009399999864399433,
       "reason": ""
     },
     "Skamania": {
@@ -134,11 +134,11 @@
       "reason": ""
     },
     "Thurston": {
-      "probability": 0.0017000000225380063,
+      "probability": 0.0007999999797903001,
       "reason": ""
     },
     "Wahkiakum": {
-      "probability": 0.002300000051036477,
+      "probability": 0.0010999999940395355,
       "reason": ""
     },
     "Walla Walla": {
@@ -154,7 +154,7 @@
       "reason": ""
     },
     "Yakima": {
-      "probability": 0.03680000081658363,
+      "probability": 0.02019999921321869,
       "reason": ""
     }
   }
