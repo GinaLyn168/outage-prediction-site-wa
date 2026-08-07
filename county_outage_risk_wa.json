@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06",
+  "generated_at": "2026-08-07",
   "predictions": {
     "Adams": {
       "probability": 0.02019999921321869,
@@ -74,7 +74,7 @@
       "reason": ""
     },
     "Kittitas": {
-      "probability": 0.02019999921321869,
+      "probability": 0.023399999365210533,
       "reason": ""
     },
     "Klickitat": {
@@ -110,11 +110,11 @@
       "reason": ""
     },
     "San Juan": {
-      "probability": 0.0035000001080334187,
+      "probability": 0.0008999999845400453,
       "reason": ""
     },
     "Skagit": {
-      "probability": 0.009399999864399433,
+      "probability": 0.0019000000320374966,
       "reason": ""
     },
     "Skamania": {
@@ -122,7 +122,7 @@
       "reason": ""
     },
     "Snohomish": {
-      "probability": 0.002199999988079071,
+      "probability": 0.0008999999845400453,
       "reason": ""
     },
     "Spokane": {
