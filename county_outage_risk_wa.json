@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-11",
+  "generated_at": "2026-08-12",
   "predictions": {
     "Adams": {
-      "probability": 0.02019999921321869,
+      "probability": 0.023399999365210533,
       "reason": ""
     },
     "Asotin": {
@@ -14,7 +14,7 @@
       "reason": ""
     },
     "Chelan": {
-      "probability": 0.02019999921321869,
+      "probability": 0.023399999365210533,
       "reason": ""
     },
     "Clallam": {
@@ -34,11 +34,11 @@
       "reason": ""
     },
     "Douglas": {
-      "probability": 0.02019999921321869,
+      "probability": 0.023399999365210533,
       "reason": ""
     },
     "Ferry": {
-      "probability": 0.02019999921321869,
+      "probability": 0.05990000069141388,
       "reason": ""
     },
     "Franklin": {
@@ -50,7 +50,7 @@
       "reason": ""
     },
     "Grant": {
-      "probability": 0.02019999921321869,
+      "probability": 0.023399999365210533,
       "reason": ""
     },
     "Grays Harbor": {
@@ -86,7 +86,7 @@
       "reason": ""
     },
     "Lincoln": {
-      "probability": 0.02019999921321869,
+      "probability": 0.19419999420642853,
       "reason": ""
     },
     "Mason": {
@@ -102,7 +102,7 @@
       "reason": ""
     },
     "Pend Oreille": {
-      "probability": 0.02019999921321869,
+      "probability": 0.1597999930381775,
       "reason": ""
     },
     "Pierce": {
@@ -110,7 +110,7 @@
       "reason": ""
     },
     "San Juan": {
-      "probability": 0.03680000081658363,
+      "probability": 0.05270000174641609,
       "reason": ""
     },
     "Skagit": {
@@ -130,8 +130,8 @@
       "reason": ""
     },
     "Stevens": {
-      "probability": 0.02019999921321869,
-      "reason": ""
+      "probability": 0.2831999957561493,
+      "reason": "wind + wet ground"
     },
     "Thurston": {
       "probability": 0.02019999921321869,
