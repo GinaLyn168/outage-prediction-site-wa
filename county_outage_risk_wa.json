@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16",
+  "generated_at": "2026-08-17",
   "predictions": {
     "Adams": {
       "probability": 0.02019999921321869,
@@ -74,7 +74,7 @@
       "reason": ""
     },
     "Kittitas": {
-      "probability": 0.011099999770522118,
+      "probability": 0.0008999999845400453,
       "reason": ""
     },
     "Klickitat": {
@@ -94,7 +94,7 @@
       "reason": ""
     },
     "Okanogan": {
-      "probability": 0.07159999758005142,
+      "probability": 0.0010000000474974513,
       "reason": ""
     },
     "Pacific": {
@@ -106,7 +106,7 @@
       "reason": ""
     },
     "Pierce": {
-      "probability": 0.05270000174641609,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "San Juan": {
@@ -122,11 +122,11 @@
       "reason": ""
     },
     "Snohomish": {
-      "probability": 0.05270000174641609,
+      "probability": 0.05779999867081642,
       "reason": ""
     },
     "Spokane": {
-      "probability": 0.03680000081658363,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Stevens": {
@@ -134,7 +134,7 @@
       "reason": ""
     },
     "Thurston": {
-      "probability": 0.02019999921321869,
+      "probability": 0.03680000081658363,
       "reason": ""
     },
     "Wahkiakum": {
