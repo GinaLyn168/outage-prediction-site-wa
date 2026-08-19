@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18",
+  "generated_at": "2026-08-19",
   "predictions": {
     "Adams": {
       "probability": 0.02019999921321869,
@@ -34,11 +34,11 @@
       "reason": ""
     },
     "Douglas": {
-      "probability": 0.001500000013038516,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Ferry": {
-      "probability": 0.0008999999845400453,
+      "probability": 0.002099999925121665,
       "reason": ""
     },
     "Franklin": {
@@ -70,7 +70,7 @@
       "reason": ""
     },
     "Kitsap": {
-      "probability": 0.03680000081658363,
+      "probability": 0.02019999921321869,
       "reason": ""
     },
     "Kittitas": {
@@ -82,7 +82,7 @@
       "reason": ""
     },
     "Lewis": {
-      "probability": 0.02019999921321869,
+      "probability": 0.03680000081658363,
       "reason": ""
     },
     "Lincoln": {
@@ -90,7 +90,7 @@
       "reason": ""
     },
     "Mason": {
-      "probability": 0.02019999921321869,
+      "probability": 0.05270000174641609,
       "reason": ""
     },
     "Okanogan": {
@@ -134,11 +134,11 @@
       "reason": ""
     },
     "Thurston": {
-      "probability": 0.02019999921321869,
+      "probability": 0.05270000174641609,
       "reason": ""
     },
     "Wahkiakum": {
-      "probability": 0.02019999921321869,
+      "probability": 0.03680000081658363,
       "reason": ""
     },
     "Walla Walla": {
