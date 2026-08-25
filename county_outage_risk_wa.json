@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24",
+  "generated_at": "2026-08-25",
   "predictions": {
     "Adams": {
       "probability": 0.02019999921321869,
@@ -66,7 +66,7 @@
       "reason": ""
     },
     "King": {
-      "probability": 0.022199999541044235,
+      "probability": 0.0019000000320374966,
       "reason": ""
     },
     "Kitsap": {
@@ -94,7 +94,7 @@
       "reason": ""
     },
     "Okanogan": {
-      "probability": 0.09560000151395798,
+      "probability": 0.0020000000949949026,
       "reason": ""
     },
     "Pacific": {
@@ -126,7 +126,7 @@
       "reason": ""
     },
     "Spokane": {
-      "probability": 0.02319999970495701,
+      "probability": 0.0019000000320374966,
       "reason": ""
     },
     "Stevens": {
