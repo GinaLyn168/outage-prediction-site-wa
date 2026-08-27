@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26",
+  "generated_at": "2026-08-27",
   "predictions": {
     "Adams": {
       "probability": 0.02019999921321869,
@@ -10,7 +10,7 @@
       "reason": ""
     },
     "Benton": {
-      "probability": 0.02019999921321869,
+      "probability": 0.023399999365210533,
       "reason": ""
     },
     "Chelan": {
@@ -18,7 +18,7 @@
       "reason": ""
     },
     "Clallam": {
-      "probability": 0.02019999921321869,
+      "probability": 0.14550000429153442,
       "reason": ""
     },
     "Clark": {
@@ -54,7 +54,7 @@
       "reason": ""
     },
     "Grays Harbor": {
-      "probability": 0.038600001484155655,
+      "probability": 0.16019999980926514,
       "reason": ""
     },
     "Island": {
@@ -62,7 +62,7 @@
       "reason": ""
     },
     "Jefferson": {
-      "probability": 0.02019999921321869,
+      "probability": 0.038600001484155655,
       "reason": ""
     },
     "King": {
@@ -90,15 +90,15 @@
       "reason": ""
     },
     "Mason": {
-      "probability": 0.02019999921321869,
-      "reason": ""
+      "probability": 0.2678000032901764,
+      "reason": "gusty winds"
     },
     "Okanogan": {
       "probability": 0.0020000000949949026,
       "reason": ""
     },
     "Pacific": {
-      "probability": 0.02019999921321869,
+      "probability": 0.14550000429153442,
       "reason": ""
     },
     "Pend Oreille": {
@@ -146,7 +146,7 @@
       "reason": ""
     },
     "Whatcom": {
-      "probability": 0.0007999999797903001,
+      "probability": 0.04560000076889992,
       "reason": ""
     },
     "Whitman": {
