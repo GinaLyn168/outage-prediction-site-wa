@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16",
+  "generated_at": "2026-09-17",
   "predictions": {
     "Adams": {
       "probability": 0.0010000000474974513,
@@ -10,11 +10,11 @@
       "reason": ""
     },
     "Benton": {
-      "probability": 0.0010999999940395355,
+      "probability": 0.0012000000569969416,
       "reason": ""
     },
     "Chelan": {
-      "probability": 0.00930000003427267,
+      "probability": 0.011099999770522118,
       "reason": ""
     },
     "Clallam": {
@@ -22,7 +22,7 @@
       "reason": ""
     },
     "Clark": {
-      "probability": 0.0007999999797903001,
+      "probability": 0.0017000000225380063,
       "reason": ""
     },
     "Columbia": {
@@ -54,7 +54,7 @@
       "reason": ""
     },
     "Grays Harbor": {
-      "probability": 0.08160000294446945,
+      "probability": 0.0008999999845400453,
       "reason": ""
     },
     "Island": {
@@ -90,7 +90,7 @@
       "reason": ""
     },
     "Mason": {
-      "probability": 0.0008999999845400453,
+      "probability": 0.004699999932199717,
       "reason": ""
     },
     "Okanogan": {
@@ -122,7 +122,7 @@
       "reason": ""
     },
     "Snohomish": {
-      "probability": 0.02280000038444996,
+      "probability": 0.0015999999595806003,
       "reason": ""
     },
     "Spokane": {
@@ -142,11 +142,11 @@
       "reason": ""
     },
     "Walla Walla": {
-      "probability": 0.0010000000474974513,
+      "probability": 0.1080000028014183,
       "reason": ""
     },
     "Whatcom": {
-      "probability": 0.022199999541044235,
+      "probability": 0.03269999846816063,
       "reason": ""
     },
     "Whitman": {
