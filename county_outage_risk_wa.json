@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02",
+  "generated_at": "2026-10-03",
   "predictions": {
     "Adams": {
       "probability": 0.02019999921321869,
@@ -22,7 +22,7 @@
       "reason": ""
     },
     "Clark": {
-      "probability": 0.02019999921321869,
+      "probability": 0.05779999867081642,
       "reason": ""
     },
     "Columbia": {
@@ -30,7 +30,7 @@
       "reason": ""
     },
     "Cowlitz": {
-      "probability": 0.0008999999845400453,
+      "probability": 0.0007999999797903001,
       "reason": ""
     },
     "Douglas": {
@@ -54,7 +54,7 @@
       "reason": ""
     },
     "Grays Harbor": {
-      "probability": 0.0340999998152256,
+      "probability": 0.001500000013038516,
       "reason": ""
     },
     "Island": {
@@ -82,7 +82,7 @@
       "reason": ""
     },
     "Lewis": {
-      "probability": 0.002099999925121665,
+      "probability": 0.00039999998989515007,
       "reason": ""
     },
     "Lincoln": {
@@ -98,7 +98,7 @@
       "reason": ""
     },
     "Pacific": {
-      "probability": 0.0010000000474974513,
+      "probability": 0.00039999998989515007,
       "reason": ""
     },
     "Pend Oreille": {
@@ -106,11 +106,11 @@
       "reason": ""
     },
     "Pierce": {
-      "probability": 0.00039999998989515007,
+      "probability": 0.0020000000949949026,
       "reason": ""
     },
     "San Juan": {
-      "probability": 0.05550000071525574,
+      "probability": 0.014299999922513962,
       "reason": ""
     },
     "Skagit": {
@@ -126,7 +126,7 @@
       "reason": ""
     },
     "Spokane": {
-      "probability": 0.02019999921321869,
+      "probability": 0.05270000174641609,
       "reason": ""
     },
     "Stevens": {
@@ -138,15 +138,15 @@
       "reason": ""
     },
     "Wahkiakum": {
-      "probability": 0.0044999998062849045,
+      "probability": 0.00559999980032444,
       "reason": ""
     },
     "Walla Walla": {
-      "probability": 0.02019999921321869,
+      "probability": 0.03680000081658363,
       "reason": ""
     },
     "Whatcom": {
-      "probability": 0.009700000286102295,
+      "probability": 0.029400000348687172,
       "reason": ""
     },
     "Whitman": {
