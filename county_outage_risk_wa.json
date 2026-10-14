@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13",
+  "generated_at": "2026-10-14",
   "predictions": {
     "Adams": {
       "probability": 0.02019999921321869,
@@ -18,11 +18,11 @@
       "reason": ""
     },
     "Clallam": {
-      "probability": 0.05420000106096268,
+      "probability": 0.09080000221729279,
       "reason": ""
     },
     "Clark": {
-      "probability": 0.008299999870359898,
+      "probability": 0.009499999694526196,
       "reason": ""
     },
     "Columbia": {
@@ -30,7 +30,7 @@
       "reason": ""
     },
     "Cowlitz": {
-      "probability": 0.004600000102072954,
+      "probability": 0.0010000000474974513,
       "reason": ""
     },
     "Douglas": {
@@ -50,11 +50,11 @@
       "reason": ""
     },
     "Grant": {
-      "probability": 0.01979999989271164,
+      "probability": 0.004000000189989805,
       "reason": ""
     },
     "Grays Harbor": {
-      "probability": 0.01979999989271164,
+      "probability": 0.019700000062584877,
       "reason": ""
     },
     "Island": {
@@ -62,7 +62,7 @@
       "reason": ""
     },
     "Jefferson": {
-      "probability": 0.030300000682473183,
+      "probability": 0.03669999912381172,
       "reason": ""
     },
     "King": {
@@ -98,7 +98,7 @@
       "reason": ""
     },
     "Pacific": {
-      "probability": 0.0038999998942017555,
+      "probability": 0.0008999999845400453,
       "reason": ""
     },
     "Pend Oreille": {
@@ -114,7 +114,7 @@
       "reason": ""
     },
     "Skagit": {
-      "probability": 0.00039999998989515007,
+      "probability": 0.021900000050663948,
       "reason": ""
     },
     "Skamania": {
@@ -122,7 +122,7 @@
       "reason": ""
     },
     "Snohomish": {
-      "probability": 0.0012000000569969416,
+      "probability": 0.10429999977350235,
       "reason": ""
     },
     "Spokane": {
@@ -134,11 +134,11 @@
       "reason": ""
     },
     "Thurston": {
-      "probability": 0.0019000000320374966,
+      "probability": 0.034699998795986176,
       "reason": ""
     },
     "Wahkiakum": {
-      "probability": 0.01730000041425228,
+      "probability": 0.0071000000461936,
       "reason": ""
     },
     "Walla Walla": {
@@ -146,15 +146,15 @@
       "reason": ""
     },
     "Whatcom": {
-      "probability": 0.14309999346733093,
-      "reason": ""
+      "probability": 0.39320001006126404,
+      "reason": "wind + wet ground"
     },
     "Whitman": {
-      "probability": 0.022199999541044235,
+      "probability": 0.0019000000320374966,
       "reason": ""
     },
     "Yakima": {
-      "probability": 0.05270000174641609,
+      "probability": 0.05779999867081642,
       "reason": ""
     }
   }
