@@ -62,8 +62,8 @@
       "reason": ""
     },
     "Jefferson": {
-      "probability": 0.29600000381469727,
-      "reason": "wind + wet ground"
+      "probability": 0.006000000052154064,
+      "reason": ""
     },
     "King": {
       "probability": 0.02630000002682209,
@@ -142,7 +142,7 @@
       "reason": ""
     },
     "Walla Walla": {
-      "probability": 0.03319999948143959,
+      "probability": 0.02410000003874302,
       "reason": ""
     },
     "Whatcom": {
